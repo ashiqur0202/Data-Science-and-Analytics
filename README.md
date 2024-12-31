@@ -149,6 +149,15 @@ Data-Science-and-Analytics/
 
 ---
 
+## 10. Related Repositories
+
+Explore other related repositories for specific analytics tasks:
+
+- [Predictive Analytics Repository](https://github.com/ashiqur0202/Predictive-Analytics): Dedicated to predictive modeling and forecasting.
+- [Customer Analytics Repository](https://github.com/ashiqur0202/Customer-Analytics): Focused on customer segmentation and behavior analysis.
+
+---
+
 ## Contribution Guidelines
 
 1. Fork the repository.
