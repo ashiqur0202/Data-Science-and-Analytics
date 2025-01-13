@@ -61,29 +61,4 @@ SQL (Structured Query Language) is a widely used tool for working with data in r
 - Advanced Statistics: Percentiles, medians, standard deviation, and variance.  
 - Case Studies: Real-world scenarios in e-commerce, finance, and customer retention.  
 
----
-
-## **Datasets**  
-
-We use publicly available datasets and simulated data to provide hands-on experience. Example datasets include:  
-- **E-commerce Dataset**: Transactions, customers, and product details.  
-- **Sales Dataset**: Monthly revenue and regional sales performance.  
-
-Datasets are available in the `datasets/` folder.  
-
----
-
-## **Setup Instructions**  
-
-Follow these steps to set up your environment:  
-
-1. Install a database management system (DBMS) of your choice:  
-   - [MySQL](https://dev.mysql.com/downloads/)  
-   - [PostgreSQL](https://www.postgresql.org/download/)  
-   - [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)  
-
-2. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/Descriptive-Analytics-SQL.git
-   cd Descriptive-Analytics-SQL
 
