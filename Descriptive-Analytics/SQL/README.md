@@ -61,4 +61,4 @@ SQL (Structured Query Language) is a widely used tool for working with data in r
 - Advanced Statistics: Percentiles, medians, standard deviation, and variance.  
 - Case Studies: Real-world scenarios in e-commerce, finance, and customer retention.  
 
-
+---
